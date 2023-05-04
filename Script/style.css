@@ -1,0 +1,14 @@
+header {
+  display: flex;
+}
+
+.navigatie {
+  float: right;
+}
+
+li {
+  float: right;
+  display: inline;
+  padding-top: 20px;
+  padding: 10px;
+}
